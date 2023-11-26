@@ -39,3 +39,4 @@ Para descargar el dataset:
 # Videos
 
 - [Video segunda entrega](https://youtu.be/LL3NO8VgRFs)
+- [Video entrega final](https://www.youtube.com/watch?v=QxVvctfkMxY)
